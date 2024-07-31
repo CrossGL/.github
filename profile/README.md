@@ -10,7 +10,7 @@ CrossGL is at the forefront of developing tools that enhance the efficiency and 
 
 ### 🤝 Join Our Community
 
-We're proud of our collaborative environment, supported by a team dedicated to pushing the boundaries of what's possible in graphics programming. [Team Member Names], your hard work and creativity have been instrumental in our journey. I am incredibly proud of what we've accomplished together.
+We're proud of our collaborative environment, supported by a team dedicated to pushing the boundaries of what's possible in graphics programming.
 
 🔗 **Stay Connected**
 - **Demos**: Check out what CrossGL can do in our open-source [demo repository](https://github.com/CrossGL/demos/tree/main).
