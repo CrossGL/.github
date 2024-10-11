@@ -14,7 +14,7 @@ We're proud of our collaborative environment, supported by a team dedicated to p
 
 🔗 **Stay Connected**
 - **Demos**: Check out what CrossGL can do in our open-source [demo repository](https://github.com/CrossGL/demos/tree/main).
-- **Documentation**: Dive deeper into CrossGL with our detailed [documentation](https://crossgl.github.io/index.html).
+- **Documentation**: Dive deeper into CrossGL with our detailed [documentation](https://crossgl.github.io/crossgl-docs/).
 - **Community**: Join our discussions on [Discord](https://discord.gg/mYH45zZ9), and follow us on [Twitter](https://x.com/crossGL_) and [LinkedIn](https://www.linkedin.com/company/crossgl/?viewAsMember=true) for the latest updates.
 
 ### 📚 Learn and Grow with Us
